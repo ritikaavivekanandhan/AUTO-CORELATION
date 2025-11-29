@@ -76,6 +76,9 @@ Output:
 
 <img width="1920" height="1200" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/d669afdd-4f7e-4658-9e6a-75dc57ba9670" />
 
+![WhatsApp Image 2025-11-29 at 15 50 11](https://github.com/user-attachments/assets/d56399f5-8dbe-4266-9a3a-5c8e88f03133)
+
+
 Result:
 
 Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
